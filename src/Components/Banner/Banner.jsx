@@ -15,7 +15,7 @@ const Banner = () => {
         <div className='container mx-auto'>
              <Carousel className="carousel-center">
             <div>
-                <img src={img1} />
+                <img  src={img1} />
             </div>
             <div>
                 <img src={img2} />
