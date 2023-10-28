@@ -7,7 +7,7 @@ const ProductDetails = () => {
     return (
         <div>
             <h1 className="px-4"> The id is {id}</h1>
-                <h1 className="px-4"> The name is {name}</h1>
+                <h1 className="px-4"> The Name is {name}</h1>
         </div>
     );
 };

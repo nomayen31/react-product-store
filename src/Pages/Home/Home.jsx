@@ -183,7 +183,7 @@ const sliceData = productData.slice(0, 10);
         <div className="flex justify-center">
           <Link to='/products'>
           <button className="btn btn-primary text-white font-bold py-2 px-4 rounded">
-            Show All Product
+            Show All Products
           </button></Link>
         </div>
 
